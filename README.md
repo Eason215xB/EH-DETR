@@ -20,9 +20,9 @@ pip install -r requirements.txt
 
 # **Usage**
 
-Dataset: [helmet-dataset](https://pan.baidu.com/s/15QSM0CUa1t7ZoW6nPpSDKA?pwd=data) 
+Dataset: [helmet-dataset](https://pan.baidu.com/s/17Jpwt5Nhz1x8gUgbUu3XPA?pwd=92rx) 
 
-Password: data
+Password:  92rx
 
 # **Training**
 
