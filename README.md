@@ -30,3 +30,22 @@ Password:  92rx
 cd /ultralytics
 python train.py
 ```
+## Reference
+
+- If you found our work useful in your research, please consider citing our works(s) at:
+
+```tex
+
+@article{10.1117/1.JEI.34.1.013035,
+author = {Liwei Liu and Xinbo Yue and Ming Lu and Pingge He},
+title = {{EH-DETR: enhanced two-wheeler helmet detection transformer for small and complex scenes}},
+volume = {34},
+journal = {Journal of Electronic Imaging},
+number = {1},
+publisher = {SPIE},
+pages = {013035},
+keywords = {RT-DETR, object detection, helmet detection, transformer target detection},
+year = {2025},
+doi = {10.1117/1.JEI.34.1.013035},
+URL = {https://doi.org/10.1117/1.JEI.34.1.013035}
+}
