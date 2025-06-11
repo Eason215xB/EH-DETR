@@ -32,7 +32,7 @@ python train.py
 ```
 ## Reference
 
-- If you found our work useful in your research, please consider citing our works(s) at:
+- If you found our work useful in your research, please consider citing our works at:
 
 ```tex
 
